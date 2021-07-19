@@ -1,8 +1,8 @@
 # Projeto StarWars - Node FullJS
 
-## Projeto completo em JavaScript de um site modelo no SPA (Single Page Application) com temática StarWars utilizando boas práticas de programação Front-End e Atomic Design.
+Projeto completo em JavaScript de um site modelo no SPA (Single Page Application) com temática StarWars utilizando boas práticas de programação Front-End e Atomic Design.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML 5;
 - CSS 3;
