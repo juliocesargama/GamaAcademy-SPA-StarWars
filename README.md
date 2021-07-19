@@ -12,7 +12,7 @@
 - Pagina 404 Error Not Found personalizada;
 - Template pré-configurado com webpack e outras dependências.
 
-> Visualização do projeto em funcionamento: [Vercel](https://gama-academy-star-wars-spa-96h9q5n5w-juliuscgama.vercel.app).
+> Visualização do projeto em funcionamento: [Vercel](https://gama-academy-spa-star-wars.vercel.app/).
 
 ## Instruções para a instalação:
 Para instalar as dependências:
