@@ -36,5 +36,4 @@ npm start
 ## Créditos:
 Professor: [Douglas Morais - Gama Academy](https://github.com/mrdouglasmorais)
 
- Template do projeto clonado em:
-`https://github.com/mrdouglasmorais/template-node-fulljs`
+ Template do projeto clonado a partir do [Repositório] do professor.(https://github.com/mrdouglasmorais/template-node-fulljs)
