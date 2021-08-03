@@ -14,6 +14,8 @@ Projeto completo em JavaScript de um site modelo no SPA (Single Page Application
 - Template pré-configurado com webpack e outras dependências.
 
 ## Instruções para a instalação:
+> Visualização do projeto em funcionamento no [Vercel](https://gama-academy-spa-star-wars.vercel.app/).
+
 Para instalar as dependências:
 
 ```sh
@@ -30,9 +32,7 @@ Para iniciar em modo de desenvolvimento:
 npm start
 ```
 
-Aconselhado ter instalado NodeJS versão 14.x em diante.
-
-> Visualização do projeto em funcionamento no [Vercel](https://gama-academy-spa-star-wars.vercel.app/).
+> Aconselhado ter instalado NodeJS versão 14.x em diante.
 
 ## Referências:
 Professor: [Douglas Morais - Gama Academy](https://github.com/mrdouglasmorais)
