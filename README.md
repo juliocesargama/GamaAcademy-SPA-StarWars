@@ -1,15 +1,14 @@
 # Projeto StarWars - Node FullJS
-
 Projeto completo em JavaScript de um site modelo no SPA (Single Page Application) com temática StarWars utilizando boas práticas de programação Front-End e Atomic Design.
+Status: Concluído.
 
-## Tecnologias utilizadas
-
+## Tecnologias:
 - HTML 5;
 - CSS 3;
 - [JavaScript Vanilla (Node)](https://nodejs.org/);
 - [Sass](https://sass-lang.com/);
 - Responsividade para mobile;
-- Pagina 404 Error Not Found personalizada;
+- Pagina 404 Error - Not Found personalizada;
 - Template pré-configurado com webpack e outras dependências.
 
 > Visualização do projeto em funcionamento: [Vercel](https://gama-academy-spa-star-wars.vercel.app/).
@@ -33,7 +32,7 @@ npm start
 
  > Aconselhado ter instalado NodeJS versão 14.x em diante.
 
-## Créditos:
+## Referências:
 Professor: [Douglas Morais - Gama Academy](https://github.com/mrdouglasmorais)
 
  Template do projeto clonado a partir do [Repositório](https://github.com/mrdouglasmorais/template-node-fulljs) do professor.
